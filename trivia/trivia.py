@@ -63,5 +63,5 @@ def make_trivia_game(number_of_categories=5, num_questions_per_category=5):
             print('---',file=f)
             print('',file=f)
     
-    os.system('darkslide trivia_slides.md')
+    os.system('darkslide -i trivia_slides.md')
 
