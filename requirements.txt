@@ -1,0 +1,4 @@
+darkslide
+numpy
+pandas
+requests
